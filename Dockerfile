@@ -1,6 +1,6 @@
 FROM ubuntu:latest
 
-MAINTAINER Ansgar Schmidt <ansgar.schmidt@gmx.net>
+MAINTAINER Anton Gustafsson <anton.gustafsson@tii.se>
 
 ENV DEBIAN_FRONTEND noninteractive
 
