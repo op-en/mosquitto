@@ -6,7 +6,7 @@ This is part of the [Open Energy Project](http://op-en.se/), a research project 
 
 This is a docker build of [mosquitto](http://mosquitto.org/), an MQTT broker.
 
-Currently it is only for raspberry pi! For intel/amd, you might as well use [ansi/mosquitto](https://hub.docker.com/r/ansi/mosquitto/).
+Currently it is only for raspberry pi! For intel/amd, you might as well use [jllopis/mosquitto](https://hub.docker.com/r/jllopis/mosquitto/).
 
 ## Get it
 ```
